@@ -6,7 +6,7 @@ Je suis **Fred Zanghi**, ingénieur freelance en **Intelligence Artificielle & D
 - Je travaille exclusivement en environnement **Python**, avec une forte composante **DevOps** (Docker, GitHub Actions, K8S, serveur distant).
 - Je poursuis une formation en distanciel sur 18 mois d'expertise en IA/ML pro avec Guillaume Saint Cirgue de Machine Learnia (10/2024 04/2026)
 
-🎯 ** Mes missions récentes :**  
+🎯 **Mes missions récentes :**  
 - Accompagner des entreprises dans le développement de pipelines IA robustes pour analyser et générer des **news crypto** et des holders sur tokens ERC-20, des **CV RH**, ou encore structurer les données pour des dashboards **Power BI**.
 - Pilotage d’un projet Big Data interne en PME (Domaine Le Pommier) : conception d’une plateforme de suivi opérationnel en temps réel, avec centralisation des données comptables, RH, logistiques et commerciales.
 
