@@ -1,13 +1,18 @@
 # Bonjour 👋
 
 Bienvenue sur mon profil GitHub !  
+
 Je suis **Fred Zanghi**, ingénieur freelance en **Intelligence Artificielle & Data Engineering**, spécialisé dans l’analyse de données, le NLP et le déploiement de solutions automatisées sur le cloud.
 
 🎯 **Ce que je fais actuellement :**  
 - J'accompagne des entreprises dans le développement de pipelines IA robustes pour analyser les **news crypto**, les **CV RH**, ou encore structurer les données pour des dashboards **Power BI**.  
-- Je travaille exclusivement en environnement **Python**, avec une forte composante **DevOps** (Docker, GitHub Actions, serveur distant).
+- Je travaille exclusivement en environnement **Python**, avec une forte composante **DevOps** (Docker, GitHub Actions, K8S, serveur distant).
+- Je poursuis une formation en distanciel sur 18 mois d'expertise en IA/ML pro avec Guillaume Saint Cirgue de Machine Learnia (10/2024 04/2026)
 
-💼 **Profil hybride Tech / Gestion**, avec +10 ans d’expérience en pilotage opérationnel & projets techniques.
+💼 **Profil hybride Tech / Gestion :** 
+- avec +10 ans d’expérience de Directeur opérationnel PME & pilotage de projets techniques.
+- Études et Certifications :  Master en Mathématiques fondamentales, Deug Structures de la Matière, Data Analyse, Data Scientist, MLOPs, Data Product Manager
+
 
 ---
 
@@ -20,7 +25,7 @@ Je suis **Fred Zanghi**, ingénieur freelance en **Intelligence Artificielle & D
 - Traitement de +400 000 articles, scoring de tokens ERC-20 avec enrichissement des données (Etherscan).
 - **Dockerisation**, gestion de logs, suivi en production.
 
-🔧 *Stack : Python, Docker, OpenAI, fuzzywuzzy, decimal, API Etherscan*
+🔧 *Stack : Python, Docker, OpenAI, Requests, BeautifulSoup, logging, re, API Etherscan*
 
 ---
 
@@ -31,7 +36,7 @@ Je suis **Fred Zanghi**, ingénieur freelance en **Intelligence Artificielle & D
 - Matching stagiaires-formateurs basé sur tokenisation et matrices pondérées.
 - Génération automatique de 20+ KPIs pour PowerBI.
 
-🔧 *Stack : Python, OCR, Pandas, SharePoint API, Docker Compose, PowerBI*
+🔧 *Stack : Python, pytesseract, Pandas, sqlalchemy, Requests, sqlite3, re, SharePoint API, Docker, logging, PowerBI*
 
 ---
 
