@@ -85,3 +85,5 @@ Je suis **Fred Zanghi**, ingénieur freelance en **Intelligence Artificielle & D
 
 💬 Je suis toujours curieux de nouveaux projets IA, data et formation. N’hésitez pas à me contacter !
 
+PS : les repo github disponibles ici proviennent de mon cursus de formation, mes repo privés dans le cadre de mes missions ne sont pas disponibles car propriétaires.
+
