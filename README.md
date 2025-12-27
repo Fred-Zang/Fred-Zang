@@ -4,7 +4,6 @@ Bienvenue sur mon profil GitHub !
 
 Je suis **Fred Zanghi**, ingénieur freelance en **Intelligence Artificielle & Data Engineering**, spécialisé dans l’analyse de données, le NLP et le déploiement de solutions automatisées sur le cloud.
 - Je travaille exclusivement en environnement **Python**, avec une forte composante **DevOps** (Docker, GitHub Actions, K8S, serveur distant).
-- Je poursuis une formation en distanciel ((temps partiel aménagé) sur 18 mois d'expertise en IA/ML pro avec Guillaume Saint Cirgue de Machine Learnia (10/2024 04/2026).
 - Je suis disponible pour toute mission ponctuelle ou de longue durée dans une équipe passionnée sur tout type de sujet technique.
 
 🎯 **Mes missions récentes :**  
