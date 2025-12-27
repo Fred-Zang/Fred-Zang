@@ -19,6 +19,29 @@ Je suis **Fred Zanghi**, ingénieur freelance en **Intelligence Artificielle & D
 
 ## 🔍 Projets techniques récents
 
+### 🔹 Projet RWA — Plateforme d’analyse IA de whitepapers crypto
+> Client : Virtual Assets Regulatory Authority (VARA – Dubaï) — 2025  
+https://www.vara.ae/en/
+
+- Analyse automatisée de whitepapers : ingestion, extraction, structuration (sections/claims), synthèses et points d’attention.
+- Approche IA orientée “lecture réglementaire” : traçabilité des sources, repérage des risques, comparaisons inter-documents.
+- Industrialisation : outillage de traitement, logs, itérations rapides sur corpus.
+
+🔧 *Stack : Python, NLP/LLM, pipelines d’extraction, scoring/heuristiques, outillage de production (logs/containers selon besoin)*
+
+---
+
+### 🔹 Projet RAG personnel Big Data — Analyse intelligente & matching de CV
+> Projet personnel — 2024–2025
+
+- Développement d’un système complet d’analyse sémantique et de matching de CV basé sur une approche **RAG (Retrieval Augmented Generation)**.
+- Pipeline : ingestion/normalisation, indexation, retrieval sémantique, génération/synthèse, critères de matching et explicabilité.
+- Objectif : améliorer la précision du matching et la qualité des synthèses par itérations + mesures.
+
+🔧 *Stack : Python, RAG (retrieval + génération), embeddings/vector search, évaluation IR, notebooks d’expérimentation*
+
+---
+
 ### 🔹 Analyse IA des News Crypto & Blockchain
 > Projet freelance pour ARIA – *depuis 2023*
 
