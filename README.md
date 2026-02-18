@@ -19,6 +19,20 @@ Je suis **Fred Zanghi**, ingénieur freelance en **Intelligence Artificielle & D
 
 ## 🔍 Projets techniques récents
 
+### 🔎 Projet RAG juridique — Étude préparatoire & cadrage (Zangai — France)
+
+Client : **Zangai (France)** — **2025**  
+
+- **Étude préparatoire RAG juridique** : cadrage d’un système question→extraits→réponse, avec priorités **auditabilité**, **traçabilité** et **reproductibilité**.
+- **Analyse systématique du corpus** : inventaire des structures/balises (XML), qualité des métadonnées, versions/dates, typologies, évolution temporelle — afin de définir une stratégie d’**extraction + chunking** robuste et maintenable.
+- **Chaîne OFFLINE → ONLINE** :
+  - OFFLINE : datalake **Bronze/Silver/Gold**, normalisation, chunks avec `doc_key` / `chunk_id`, exports Parquet/JSONL, **benchmarks IR** (BM25/dense/hybride).
+  - ONLINE : API (FastAPI/LangChain) avec retrieval configurable, filtres (corpus/statut/`as_of`), politique **no-answer**, et **observabilité** (traces, timings, sources).
+- **Livrables attendus** : recommandations d’architecture, règles de filtering temporel/statut, protocole d’évaluation (Recall@k, MRR, nDCG@k), conventions d’identifiants/métadonnées, et plan d’industrialisation (logs, métriques, CI).
+
+🔧 Stack : **Python**, parsing XML & ETL, **RAG** (BM25/dense/hybride), vector search, **évaluation IR**, API FastAPI/LangChain, observabilité (traces/logs), outillage d’industrialisation
+
+
 ### 🔹 Projet RWA — Plateforme d’analyse IA de whitepapers crypto
 > Client : Virtual Assets Regulatory Authority (VARA – Dubaï) — 2025  
 https://www.vara.ae/en/
