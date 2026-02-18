@@ -20,8 +20,7 @@ Je suis **Fred Zanghi**, ingénieur freelance en **Intelligence Artificielle & D
 ## 🔍 Projets techniques récents
 
 ### 🔎 Projet RAG juridique — Étude préparatoire & cadrage (Zangai — France)
-
-Client : **Zangai (France)** — **2025**  
+> Client : Zangai (France) — 2025  
 
 - **Étude préparatoire RAG juridique** : cadrage d’un système question→extraits→réponse, avec priorités **auditabilité**, **traçabilité** et **reproductibilité**.
 - **Analyse systématique du corpus** : inventaire des structures/balises (XML), qualité des métadonnées, versions/dates, typologies, évolution temporelle — afin de définir une stratégie d’**extraction + chunking** robuste et maintenable.
