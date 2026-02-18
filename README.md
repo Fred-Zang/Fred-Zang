@@ -7,7 +7,7 @@ Je suis **Fred Zanghi**, ingénieur freelance en **Intelligence Artificielle & D
 - Je suis disponible pour toute mission ponctuelle ou de longue durée dans une équipe passionnée sur tout type de sujet technique.
 
 🎯 **Mes missions récentes :**  
-- Accompagner des entreprises dans le développement de pipelines IA robustes pour analyser et générer des **news crypto** et des holders sur tokens ERC-20, des **CV RH**, ou encore structurer les données pour des dashboards **Power BI**.
+- Accompagner des entreprises dans le développement de pipelines IA robustes pour la mise en place de systèmes RAG, valider des White Papers RWA pour une autorité de régulation, analyser et générer des **news crypto** et des holders sur tokens ERC-20, des **CV RH**, ou encore structurer les données pour des dashboards **Power BI**.
 - Pilotage d’un projet Big Data interne en PME (Domaine Le Pommier) : conception d’une plateforme de suivi opérationnel en temps réel, avec centralisation des données comptables, RH, logistiques et commerciales.
 
 💼 **Profil hybride Tech / Gestion :** 
