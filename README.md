@@ -57,6 +57,7 @@ https://www.vara.ae/en/
 
 ### 🔹 Analyse IA des News Crypto & Blockchain
 > Projet freelance pour ARIA – *depuis 2023*
+https://aria-ratings.com/app/ratings
 
 - Scraping RSS (BeautifulSoup, Selenium), détection sémantique de hot news, génération de résumés avec **LLM OpenAI**.
 - Traitement de +400 000 articles, scoring de tokens ERC-20 avec enrichissement des données (Etherscan).
@@ -68,6 +69,7 @@ https://www.vara.ae/en/
 
 ### 🔹 Automatisation & Matching de CV pour AJC Formation
 > Projet freelance – 2023-2024
+https://www.ajc-formation.com/contact/
 
 - Extraction de données multi-sources (SharePoint, Beetween, OneDrive), OCR de documents, analyse sémantique des CV.
 - Matching stagiaires-formateurs basé sur tokenisation et matrices pondérées.
@@ -79,7 +81,8 @@ https://www.vara.ae/en/
 
 ### 🔹 Formations IA & Big Data
 > Formateur certifié – 2023-2024
-
+https://www.ajc-formation.com/contact/
+> 
 - Animation de sessions sur le Machine Learning, Python scientifique, NLP, Big Data, Cloud et QA.
 - 120+ personnes formées | 200+ heures de formation livrées
 
@@ -89,7 +92,8 @@ https://www.vara.ae/en/
 
 ### 🔹 Plateforme de pilotage temps réel – Domaine Le Pommier
 > Directeur Opérationnel – 2011-2017
-
+https://campinglepommier.com/
+> 
 - Pilotage complet d’un projet **Big Data interne** pour digitaliser les processus d’un site touristique de 4 000 visiteurs/jour.
 - Conception et supervision d’une **plateforme de pilotage temps réel** (intranet maison) intégrant données RH, logistique, ventes, maintenance et finances.
 - Intégration de systèmes comptables (Quadratus), fichiers Excel de gestion, tableaux de bord personnalisés, interconnexion avec l'infrastructure réseau du site.
